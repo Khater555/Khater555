@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ahmed Khater</h1>
+<h1 align="center">Hi , I'm Ahmed Khater</h1>
 <h3 align="center">A Cloud / DevOps Engineer</h3>
 
 - 🌱 I’m currently learning and improving my skills **at DevOps and Cloud**
