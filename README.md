@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+To+My+GitHub+Profile&center=true&width=500&vCenter=true)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+Profile" alt="Welcome To My GitHub Profile" />
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Ahmed Khater</h1>
 <h3 align="center">A Cloud / DevOps Engineer</h3>
@@ -7,13 +11,15 @@
 
 - 💬 Ask me about **linux, docker, jenkins, Kubdernetes, Ansible, Terraform, CI/CD, Prometheus**
 
-- 📫 How to reach me **mohamed180235@gmail.com**
+- 📫 How to reach me **ahmedshakerkhater11@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1FPEhalu2aokBCvar7mI0w3diyOBlkgDZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-rabie-8655421a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-shaker-khater" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
